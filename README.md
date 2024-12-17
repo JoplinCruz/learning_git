@@ -9,3 +9,4 @@
 * git log
 * git restore [--staged] <file.ext>
 * git push
+* git pull
