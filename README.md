@@ -7,4 +7,4 @@
 - git diff [--staged]
 - git commit -m "message"
 - git log
-- git restore
+- git restore [--staged] <file.ext>
